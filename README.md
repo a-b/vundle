@@ -129,6 +129,7 @@ see [wiki](https://github.com/gmarik/vundle/wiki)
 * show description in search results
 * search by description as well
 * make it rock!
+* make it compatible with [carlhuda/janus]:https://github.com/carlhuda/janus
 
 [Vundle]:http://github.com/gmarik/vundle
 [Pathogen]:http://github.com/tpope/vim-pathogen/
